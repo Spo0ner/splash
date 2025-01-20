@@ -1,0 +1,23 @@
+-----------------------------------------------------------
+Vorstellung des Projektes
+----------------------------------------------------------
+
+Name: Noch nicht definiert
+Projektname: "splash"
+Genre: Noch nicht definiert
+
+
+Beschreibung:
+
+
+Ein PvP Spiel in dem es darum geht die gegnerische Manschaft durch Punkte zu besiegen. 
+Die Punkte werden in "kills" (Bezeichnung kann sich noch ändern) beschrieben.
+
+
+--- Weiter Informationen folgen ---
+
+
+
+
+
+------------------------EOF--------------------------------------------
