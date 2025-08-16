@@ -1,23 +1,76 @@
------------------------------------------------------------
-Vorstellung des Projektes
-----------------------------------------------------------
+Phase 1 – Codename - Splash – PITCH 
+1. Kurze Spielbeschreibung (Elevator Pitch)
+Ein schneller, humorvoller Multiplayer-Shooter, in dem Spieler sich mit verrückten, nicht-tödlichen Waffen bekämpfen – von Sahnesprühern bis zu Konfettikanonen – um Punkte zu sammeln und Chaos zu stiften.
+Basierend auf den Multiplayershootern der frühen 2000er
+ 
+2. Genre & Stimmung
+•	Genre: Multiplayer-Arena-Shooter (First Person).
+•	Stimmung: Lustig, chaotisch, familienfreundlich.
+•	Inspiration: Nerf – Arena Blast (Familienfreundlicher Shooter auf Basis der Unreal 1 Engine)
+ 
+3. Kernmechanik
+•	Spieler schießen mit nicht-tödlichen Waffen.
+•	Ziel: Punkte durch Treffer, // Später möglicherweise Gebietsbesitz oder lustige „Sabotageaktionen“.
+•	Waffen können besondere Effekte haben (z. B. Rutschflächen aus Seifenblasen, Gegner in Ballons fangen).
+ 
+4. Zielgruppe
+•	Jugendliche und Erwachsene.
+•	Zielplattform: PC  
+5. Scope (für erste Version)
+•	Spieleranzahl: 2–4 lokal oder online.
+•	Maps: 1 kleine Arena für Prototyp, später 2–3.
+•	Waffen: Start mit 2–3 einzigartigen, verrückten Waffen.
+•	Modus: Einfacher „Jeder gegen Jeden“-Punktmodus., später Team DM
+•	Spielzeit pro Match: 5–10 Minuten.
+ 
+6. Story / Thema 
+•	Komplett ohne Story → einfach ein chaotischer „Spaßkampf“-Wettbewerb.
+ 
+7. Visueller Stil
+•	Bunt, cartoonhaft, übertriebene Animationen.
+•	Große, klare Formen (damit man Gegner gut erkennt).
+•	Übertriebene Partikeleffekte (Konfetti, Rauch in knalligen Farben).
+ 
+💡 Vorteile dieser Richtung:
+•	Humorvoller Stil erlaubt kreatives Waffen- und Leveldesign.
+•	Nicht-tödlich = keine Einschränkungen bei FSK/USK für jüngere Spieler.
+•	Multiplayer = hoher Wiederspielwert.
 
-Name: Noch nicht definiert
-Projektname: "splash"
-Genre: Noch nicht definiert
 
 
-Beschreibung:
+Ideen:
 
+Waffenideen:
 
-Ein PvP Spiel in dem es darum geht die gegnerische Manschaft durch Punkte zu besiegen. 
-Die Punkte werden in "kills" (Bezeichnung kann sich noch ändern) beschrieben.
+Verrückte Nicht-Tödliche Waffen
+1.	Sahnekanone
+o	Beschreibung: Schießt Sahnefontänen, die das Sichtfeld des Gegners für 3 Sekunden blockieren.
+o	Spezialeffekt: Getroffene Spieler wischen sich die Sahne ab (lustige Animation).
+2.	Konfettibazooka
+o	Beschreibung: Feuert eine Explosion aus buntem Konfetti.
+o	Spezialeffekt: Gegner werden für kurze Zeit verlangsamt, weil sie „in der Party stecken“.
+3.	Bananenschalenwerfer
+o	Beschreibung: Schießt Bananenschalen als Minen auf den Boden.
+o	Spezialeffekt: Spieler, die drüberlaufen, rutschen unkontrolliert in eine zufällige Richtung.
+4.	Seifenblasenblaster
+o	Beschreibung: Schießt große Blasen, die Gegner einhüllen.
+o	Spezialeffekt: Eingeseifte Spieler können nur hüpfen, bis die Blase platzt.
+5.	Wasserballonkatapult
+o	Beschreibung: Wirft Wasserballons, die beim Aufprall eine Rutschfläche hinterlassen.
+o	Spezialeffekt: Gegner verlieren kurz die Kontrolle über die Bewegung.
+6.	Popcorn-MG
+o	Beschreibung: Dauerfeuer aus knackendem Popcorn.
+o	Spezialeffekt: Geringer Schaden, aber hoher Knockback (Spieler werden weggeschoben).
+7.	Gummihuhn-Schleuder
+o	Beschreibung: Verschießt kreischende Gummihühner.
+o	Spezialeffekt: Lautes „Quieken“ lenkt Gegner ab, Bildschirm wackelt leicht.
+8.	Klebe-Bonbon-Werfer
+o	Beschreibung: Schießt klebrige Zuckerkugeln.
+o	Spezialeffekt: Gegner bewegen sich langsamer, bis sie „den Zucker abschütteln“.
+9.	Sprudelgranate
+o	Beschreibung: Limonadenflasche, die nach dem Aufprall sprudelt und Spieler in die Luft katapultiert.
+o	Spezialeffekt: Wirbelt Gegner durch die Arena.
+10.	Luftkissenkanone
+o	Beschreibung: Schießt starke Luftstöße.
+o	Spezialeffekt: Gegner werden von Plattformen oder aus sicheren Positionen gepustet.
 
-
---- Weiter Informationen folgen ---
-
-
-
-
-
-------------------------EOF--------------------------------------------
